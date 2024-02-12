@@ -1,0 +1,2 @@
+Temat: Sortowanie naiwne.
+Strona : https://eduinf.waw.pl/inf/alg/003_sort/0003.php

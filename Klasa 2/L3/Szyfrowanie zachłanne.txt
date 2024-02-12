@@ -1,0 +1,16 @@
+Temat: Szyfrowanie zachłanne czyli kody Huffmana.
+
+Kompresja ta polega na zastępowanie znaków kompresowanego pliku krótszymi kodami, dzięki czemu wynikowy ciąg bitów jet znacznie krótszy od wejściowego.
+
+Litera A w ASCII:
+A = 01000001
+po zakodowaniu A = 000
+mamy zmniejszenie o około -50%.
+
+Zakoduj wiadomość EDBCB, stosując kodowanie Hafftmana wiedząc że prawdopodobieństwo wystąpienia liter wiadomośći to: A-10% B-10% C-15% D-20% E-45%.
+1 011 001 010 001
+
+Na sprawdzian napewno 
+Liczenie entropii.
+lewo zera, prawo jedynki
+ 

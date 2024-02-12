@@ -1,0 +1,4 @@
+Temat: Dwie dodatkowe tablice czyli stosujemy algorytm optymalny.
+https://www.algorytm.edu.pl/algorytmy-maturalne/jednoczesne-wysz-min-i-max.html
+Optymalność - szukanie MAX i MIN w tym samym momencie.
+Wersji tablicowej na spr nie będzie.

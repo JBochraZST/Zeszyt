@@ -1,0 +1,3 @@
+Temat: Dziel i zwyciężaj, czyli sortowanie metodą scalania
+https://www.algorytm.edu.pl/algorytmy-maturalne/sortowanie-przez-scalanie.html
+Tylko przykład praktyczny oraz wzór na stronie jest.

@@ -1,0 +1,20 @@
+https://www.matemaks.pl/blad-bezwzgledny-i-wzgledny-pomiaru.html // Napewno na sprawdzianie
+
+Błąd bezwzględny: Δx=|x−x0|
+gdzie:
+x - to dokładna wartość
+x0 - to zmierzona wartość
+
+Błąd względny: δ=(Δx/x)*100%=(|x−x0|/x)*100% , i δ=Δx/x=|x−x0|/x
+gdzie:
+Δx  - to błąd bezwzględny pomiaru
+x - to dokładna wartość
+x0 - to zmierzona wartość
+
+Przkład:
+Na początku liczymy błąd bezwzględny:
+Δx=|x−x0|=|122,5−120|=2,5
+Teraz obliczymy błąd względny:
+δ=Δx/x=2,5/122,5=1/49
+Wyrazimy jeszcze błąd względny w procentach:
+δ=Δx/x*100%=1/49*100%=100/49%≅2,04%

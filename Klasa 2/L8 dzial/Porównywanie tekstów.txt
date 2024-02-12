@@ -1,0 +1,1 @@
+T: Sprawdzm czyli porównywanie tekstów i wyszukiwanie wzorca w tekście metodą naiwną.

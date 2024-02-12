@@ -1,0 +1,6 @@
+Lekcja 19
+Temat: Raz krócej, raz dłużej, czyli sortowanie kubełkowe.
+
+Algorytmy Sortujące - Sortowanie kubełkowe (eduinf.waw.pl) 
+Sortowanie kubełkowe = Bucket Sort 
+

@@ -1,0 +1,23 @@
+Temat: Topologie sieciowe.
+Strona z lekcji: https://pasja-informatyki.pl/sieci-komputerowe/topologie-sieci/
+DO WSZYSTKIEGO SCHEMATY (RYSUNKI).
+
+Topologie:
+
+-fizyczne: Określają sposób połączenia między hostami i urządzeniami sieciowymi.
+-logiczne: Określają sposób wymiany informacji w sieci.
+
+TOPOLOGIA FIZYCZNA MAGISTRALI:
+Zaleta: Nie wielki koszt utworzenia sieci, nie wymaga urządzeń sieciowych
+Wady: Podatność na awarie, mała przepustowość sieci.
+Topologia ta stosowana była do budowy lokalnych sieci komputerowych. Celowo używam tutaj słowa "była", ponieważ nie jest już powszechnie stosowana. Poza niską przepustowością, charakteryzowała ją również duża podatność na awarię sieci. W momencie przerwania kabla koncentrycznego cała sieć przestawała działać. Niewątpliwą zaletą w zastosowaniu tej topologii był niewielki koszt jej wdrożenia, ponieważ nie trzeba było stosować setek metrów kabla ani żadnych urządzeń pośredniczących.
+
+TOPOLOGIA FIZYCZNA PIERŚCIENIA:
+Zaleta: Nie wymaga urządzeń sieciowych, Nie wielki koszt utworzenia sieci
+Wada: Podatnośc na awarie, Mała przepustowość
+W topologii pierścienia każde urządzenie podłączone jest z dwoma sąsiadami, tworząc zamknięty krąg. Wykorzystuje tokeny.
+
+TOPOLOGIA P2P(PEER TO PEER):
+Zaleta: 
+Wada: Jedn komputer może rozsiać wirusy na każdy inny komputer połączony do sieci,
+Każdy ma połączenie z każdym.P2P jest modelem komunikacji w sieci komputerowej zapewniający wszystkim hostom te same uprawnienia.

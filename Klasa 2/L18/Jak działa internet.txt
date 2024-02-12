@@ -1,0 +1,41 @@
+Temat: Nie wszystko jest takie oczywiste, czyli jak działa internet?
+Strona 314/53.1
+Internet - Jest to ogólno światowa sieć, łącząca sieci lokalne i pojednyńcze komputery, by możliwa była wymiana danyvch pomiędzy nimi.
+Sieć globalna WAN(Wide Area Netword) - jest to sieć komputerowa znajdująca się na obszarze wykraczającym poza miasto, kraj lub kontynent, sieć WAM łączy sieci lokalne WAM.
+LAN - Jest to sieć o zasięgu lokalym, obuejmuje np: pokój, mieszkanie, biuro, budynek, dzielnię
+Wyrużniamy dwa podstawowe urządzenia sieciowe: 
+1) switch(przełącznik) - łączy komputery i użądzenia we wspólna podsieć (LAN)
+2) router - W routerze sygnał internetowy przeprowadzony jest przewodowo lub bez, natomiast pezwód udustepniony przez dostawcę(provider) musi być wpięty
+w odpowiednie wejście port (WAN)
+
+IP - (internet protocol) - jest protokołem odpowiedzialnym za wybór trasy i przesyłanie informacji w postaci pakietów. Został on utworzony w taki sposób, by w razie awarii automatycznie zestawił alternatywne połączenie. 
+
+TCP (Transmisson Control Protocol)- protkół który zapewnia bezpieczne przesyłanie danych, potwierdza odebrane dane i zapewnia kontrolę poprawności i przesyłania. Dzięki niemu można bez błędów przeglądać strony internetowe, przesyłać pocztę, przesyłać pliki.
+
+MAN - Sieć miejska
+PAN - Sieć personalna
+
+IPv4 - to liczba 32 bitowa zwyczajowo zapisywana w postaci dziesiętnej jako 4 oktety odzielone od siebie znakiem kropki. np. 192.168.27.202   (max. wartość bo 2^8 = 256, zakres od 0 do 255)
+IPv6 - to liczba 128 bitowa zwyczajowo zapisywana w postaci szesnastkowej. W tym systemie adresacji mamy dostęp do 2^128 unikalnych adresów IP. np. fe80::47f3:ee6:ee63:ec65%6   . 
+
+Wszystkie urządenia obsługujące sieć muszą obsługiwać również starsze standardy - kompatybilność wsteczna.
+
+Adres MAC - to adres fizyczny urządenia, liczba 48 bitowa zapisywana w postaci szesnastkowej
+np.
+xx-xx-xx-yy-yy-yy
+x - kod producenta karty sieciowej
+y - unikalny w skali całego świata numer urządenia 
+ipconfig, ping default gateway (numery) time<1ms i git wszystko inne źle, tracert strona,ping strona.
+
+Statyczny adres IP - jest to stały adres sieciowy dla połączenia sieciowego.
+Dynamiczny adres IP - otrzymywany(zmieniany) za każdym razem gdy użytkownik loguje się do sieci (wymagane DHCP)
+DHCP - Dynamic Host Configuration Protocol - jest to usługa dzięki której komputer podłączony do sieci pobiera niezbędne dane ustawień parametrów, które odpowiadają za poprawną prace.
+
+Instytucje czuwające nad przyznawaniem IP w internecie:
+ICANN (The Internet Corporation for Assigned Names and Numbers) --> RIPE (Réseaux IP Européens) --> NASK (Naukowa Akademicka Sieć Komputerowa) --> Lokalni dostawcy internetu --> Urządzenie końcowe z przydzielonym IP
+ICANN - instytucja najwyższego poziomu zajmującą się ustalaniem infrastruktury sieciowej oraz przydzielaniem adresów domenowych
+RIPE - Udostępnia adresy sieciowe i domenowe dla poszczególnych państw.
+NASK - Jest to instytucja zajmująca się przydzielaniem adresów sieciowych i domenowych na terenie polski.
+Lokalni dostawcy internetu - zajmują się przydzielaniem adresów sieciowych użytkownikom lokalnym.
+
+Komendy: ipcofnig /all

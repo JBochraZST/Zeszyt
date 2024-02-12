@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695728814 source:d:\2p\informatyka\wydawanie_reszty\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1695728816 source:d:\informatyka\klasa 2\l4\main.cpp
+	<iostream>
+	<stdlib.h>
+

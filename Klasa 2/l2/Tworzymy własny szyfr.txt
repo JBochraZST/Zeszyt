@@ -1,0 +1,14 @@
+Temat: Tworzymy własny szyfr
+SCHEMAT SZYFROWANIA SYMETRYCZNEGO:
+
+(Nadawca) Orginalna informacja --> Klucz symetryczny --> Zaszyfrowana informacja --> Klucz symetryczny --> Orginalna informacja (Odbiorca)
+
+Klucz - w szyfrowaniu stanowi informacje, dzięki której można zaszyfrować lub odszyfrować informacje właściwą lub dane.
+
+Kryptografia symetryczna - wykorzystują klucze znane nadawcy i odbiorcy.  
+
+SCHEMAT SZYFROWANIA ASYMETRYCZNEGO:
+(Nadawca) Orginalna informacja --> Szyfrowanie kluczem publicznym --> Zaszyfrowana informacja --> Odszyfrowywanie kluczem prywatnym --> Orginalna informacja (Odbiorca)
+W szyfrowaniu asymetrzycznym używa się kluczy publicznych i prywatnych. Klucz prywatny pełni funkcję swoistego podpisu nadawcy i powinnien być znany tylko jemu.
+Klucz prywatny i publiczny stanowią unikatową parę. Funkjce kluczy mogą byc łączone, np. informacja najpierw jest podpisywana kluczem prywatnym nadawcy apotem szyfrowanym
+kluczem publicznym odbiorcy. Metoda ta jest zazwyczaj stosowana dla zwiększenia bepieczeństwa, kiedy dla każdego połączenia generuje się nowy klucz. 

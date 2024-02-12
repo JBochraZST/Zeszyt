@@ -1,0 +1,22 @@
+Od 30 
+30:
+Metoda naiwna - wytłumaczyć, uzupełnienie kodu programu
+31:
+Pomijamy
+32:
+Palindromy - co to, przykład praktyczny, czy podany wyraz to palindrom, schemat blokowy, kod programu
+33:
+Anagramy - co to, przykład praktyczny ?, schemat blokowy(196 z zastosowaniem funkcji sortującej), sortowanie bombelkowe - kod programu, przykład praktyczny(zapisac iteracje, jak algorytm sie wykonuje(TO DOTYCZY KAZDEGO ALOGRYTMU SORTOWANIA))
+34:
+Sortowanie przez wybieranie - NIE MA KODU ANI PSEUDO KODU ANI SCHEMATU BLOKOWEGO, tylko przykład praktyczny(na pewno) coś rosnąco malejąco
+35:
+ONP - zapis infixowy na postfixowy i na odwrot
+36:
+Sortowanie naiwne - co to, (jaka roznica miedzy bombelkowym), przykład praktyczny, schemat blokowy, na czym polega dziel i zwyciezaj(rzadz)
+(gnoma pogo nie bedzie)  
+37: 
+na czym polega dziel i zwyciezaj(rzadz), Algorytm optymalny- co to, zasada dzialania, lista krokow, opis slowny (kod programu nie bedzie)
+38:
+Sortowanie przez scalanie - przykład praktyczny tylko(na kartce albo w paint) 
+39:
+Sortowanie kubełkowe(rosnace i malejace)
